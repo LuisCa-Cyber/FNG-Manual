@@ -15,7 +15,6 @@ load_dotenv()
 # Obtener la clave API desde la variable de entorno
 api_key = os.getenv("OPENAI_API_KEY")
 
-api_key = os.getenv("OPENAI_API_KEY")
 
 if api_key is None:
     st.error("No se encontró la clave API de OpenAI. Verifica las variables de entorno en Streamlit Cloud.")
@@ -85,7 +84,39 @@ Texto_Final,Texto_Final2 = load_text_files()
 
 # Definir función principal de Streamlit
 def run_chatbot():
-    st.title("🤖 Arquitectura de Datos - Asistente Manual de Garantias")
+#    st.title("🤖 Arquitectura de Datos - Asistente Manual de Garantias")
+    logo_path ="FNG.png"
+
+    col1, col2 = st.columns([1, 5])
+
+    with col1:
+        st.markdown("<br>", unsafe_allow_html=True)
+        st.image(logo_path, width=120)  # Ajusta el tamaño del logo si es necesario
+
+    with col2:
+        #st.title("Subd. Arquitectura de Datos")
+        #st.title("🤖 Arquitectura de Datos - Asistente Manual de Garantias")
+        #st.markdown("<h1 style='color:white; font-size: 1.5em;'>🤖 Subdirección Arquitectura de Datos -<br> Asistente Manual de Garantías</h1>", unsafe_allow_html=True)
+        st.markdown(
+            """
+            <div style="text-align: center;">
+                <h1 style='color:white; font-size: 2.0em;'>🤖 Subdirección Arquitectura de Datos -<br> Asistente Manual de Garantías</h1>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    #st.title("🤖 Arquitectura de Datos - Asistente Manual de Garantias")
+
+    st.markdown(
+            """
+            <style>
+            .main {
+                background-color: #111111;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True
+        )
 
     # Inicializar el historial de mensajes si no existe en session_state
     if "messages" not in st.session_state:
