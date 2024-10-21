@@ -1,0 +1,315 @@
+PARTE 1. ASPECTOS GENERALES
+INTRODUCCIÓN
+El reglamento establece condiciones generales y procedimientos para la administración de garantías otorgadas por el FNG y sus intermediarios. Está compuesto por dos partes principales y varios anexos que detallan los productos de garantía vigentes.
+
+TÍTULO 1. OBJETO Y DISPOSICIONES GENERALES
+CAPÍTULO 1. OBJETO Y DEFINICIONES
+1. Objeto:
+Establece las normas que regulan las relaciones entre el FNG y los intermediarios.
+
+2. Adopción y modificaciones del reglamento de garantías:
+El reglamento es adoptado y modificado por el presidente del FNG, con avisos a los intermediarios a través de circulares externas. Se publican borradores para observaciones antes de su adopción.
+
+3. Vigencia del reglamento:
+El reglamento vigente desde el 13 de enero de 2015. Las obligaciones garantizadas se rigen por las versiones del reglamento y circulares vigentes en el momento de la emisión de la garantía.
+
+4. Relación jurídica reglamento y contrato:
+El reglamento es de obligatorio cumplimiento y regula la relación jurídica entre el FNG y los intermediarios.
+
+5. Habeas Data y protección de datos personales:
+Los intermediarios deben cumplir con las leyes de protección de datos personales y las políticas de privacidad del FNG.
+
+6. Vinculación intermediario-cliente FNG:
+Para utilizar las garantías, los intermediarios deben cumplir con un proceso de vinculación y suscribir el "Contrato de Vinculación".
+
+7. Definición de garantía:
+Una garantía es un acto jurídico accesorio en el cual el FNG se compromete a pagar total o parcialmente una obligación en caso de incumplimiento del deudor.
+
+8. Definición de línea de garantía:
+Conjunto de productos de garantía destinados a segmentos específicos del mercado.
+
+9. Definición de producto de garantía:
+Modalidad de garantía con características técnicas, financieras y de mercado específicas.
+
+CAPÍTULO 2. VALOR MÁXIMO DISCRECIONAL – VMD
+1. Definición de VMD:
+Límite máximo de montos que el FNG está dispuesto a garantizar, definido según políticas de riesgo.
+
+2. VMD de línea de garantía:
+Aprobado por el FNG para cada línea de garantía. Puede ser incrementado, reducido o suspendido según políticas de riesgo.
+
+3. Solicitud de VMD:
+Intermediarios vigilados por la SFC deben solicitar por escrito el VMD, proporcionando la documentación requerida.
+
+4. Vigencia del VMD:
+Es indefinida a partir de la activación, pero puede ser revisada y actualizada periódicamente por el FNG.
+
+5. Suspensión del VMD:
+El FNG puede suspender el VMD por diversas causales, como falta de información o intervención del intermediario.
+
+6. VMD deudor:
+Límite máximo de montos que el FNG garantizará por deudor. Puede ser modificado y suspendido discrecionalmente.
+
+CAPÍTULO 3. ASPECTOS GENERALES DE LAS GARANTÍAS
+1. Modalidades de aprobación:
+Automática (sin evaluación de riesgo por el FNG) e individual (con evaluación de riesgo).
+
+2. Aceptación de la garantía:
+Requiere la aceptación expresa del deudor mediante la suscripción de un documento de aceptación.
+
+3. Cobertura y límite de cobertura:
+La responsabilidad del FNG está limitada según el producto de garantía y puede establecer coberturas inferiores según políticas de riesgo.
+
+4. Condiciones de cobertura:
+Las garantías son parciales y requieren la participación del intermediario en los riesgos. No cubren obligaciones desembolsadas antes de la reserva de cupo, salvo excepciones.
+
+5. Reserva de cupo:
+Proceso mediante el cual el intermediario solicita al FNG la verificación y reserva de cupo para una obligación antes del desembolso.
+
+6. Apertura de cupo:
+Para cupos rotativos, el intermediario debe solicitar la apertura de cupo al FNG.
+
+7. Registro de garantías:
+Proceso mediante el cual se registran las obligaciones garantizadas. El FNG puede rechazar registros que no cumplan con los requisitos establecidos.
+
+8. Comisiones:
+El FNG cobra comisiones por la expedición de garantías, las cuales deben ser pagadas por el intermediario.
+
+CONTINUACIÓN
+Procederé a resumir los siguientes capítulos siguiendo la misma estructura y detallando la información esencial. Si tienes alguna preferencia específica para los siguientes capítulos, por favor indícalo.
+
+continua, no te detengas hasta terminarlo completo
+Este contenido podría infringir nuestras políticas de uso.
+ChatGPT
+TÍTULO 1. OBJETO Y DISPOSICIONES GENERALES (Continuación)
+CAPÍTULO 3. ASPECTOS GENERALES DE LAS GARANTÍAS (Continuación)
+9. Facturación y pago de comisiones:
+Las comisiones deben ser pagadas dentro de los once días calendario posteriores a la publicación del "Detalle de confirmación" en el portal del FNG. El intermediario debe facturar, cobrar y recaudar las comisiones de los deudores.
+
+10. Devolución de comisiones:
+Procede en caso de prepago total de la obligación garantizada o decisión del intermediario de no continuar con la garantía. Las devoluciones deben ser mayores al 10% del salario mínimo mensual vigente.
+
+11. Reintegro de comisiones:
+Procede en casos de error del intermediario, reclamación posterior al pago de la comisión, reconocimiento de seguro de vida, o inspección que determine la cancelación de la garantía.
+
+12. Vigencia de la garantía:
+Comienza con el desembolso de la obligación garantizada y termina en casos como el vencimiento de la obligación, pago de la garantía por parte del FNG, o extinción de la obligación garantizada.
+
+13. Modificación de condiciones de las obligaciones garantizadas:
+Las modificaciones pueden llevar a la cancelación de la garantía. Ciertas condiciones pueden ser ajustadas por el intermediario, siempre notificando al FNG.
+
+14. Actualización de cartera:
+El intermediario debe enviar mensualmente información de las obligaciones garantizadas para actualizar el VMD y realizar procesos de facturación y pago de garantías.
+
+15. Reclamación de garantías:
+El proceso inicia con la solicitud de pago de la garantía por parte del intermediario. El FNG verifica la documentación y realiza el pago si cumple con los requisitos.
+
+16. Gestión de reclamaciones:
+Las solicitudes deben presentarse a través del portal del FNG y formalizarse por escrito con la documentación requerida.
+
+17. Plazo para la reclamación de garantías:
+Las reclamaciones deben presentarse dentro de los dos años posteriores a la fecha de inicio de la mora de la obligación garantizada.
+
+18. Plazo para reclamaciones derivadas de procesos concursales:
+Dentro de los dos años siguientes a la ejecutoria del auto de calificación y graduación de créditos.
+
+19. Monto mínimo de reclamación:
+El FNG solo pagará reclamaciones cuyo saldo insoluto sea igual o superior a un salario mínimo mensual legal vigente.
+
+20. Deducible aplicable al pago de garantías:
+Aplica a ciertos productos de garantía según lo establecido en el anexo correspondiente.
+
+21. Desistimiento de reclamación:
+El intermediario puede desistir de una reclamación antes del pago de la misma.
+
+22. Causales de pago de garantías:
+Incluyen el incumplimiento de requisitos, presentación de reclamaciones fuera de plazo, entre otras.
+
+23. Pago de garantías:
+El FNG paga el valor correspondiente a la cobertura de la obligación garantizada, según el procedimiento establecido.
+
+24. Plazo de pago:
+El FNG pagará dentro de un mes a partir de la recepción de la documentación completa.
+
+25. Imputación y aplicación del valor pagado:
+El pago se imputará a la obligación garantizada conforme a las políticas del FNG.
+
+26. Recuperación de cartera:
+El intermediario debe trasladar al FNG los valores recuperados de las obligaciones pagadas por el FNG.
+
+27. Reactivación de garantías pagadas:
+El intermediario puede solicitar la reactivación de una garantía pagada si normaliza la obligación garantizada dentro de dos años.
+
+28. Reintegro de pagos:
+El intermediario debe reintegrar al FNG cualquier valor pagado en exceso o por error.
+
+29. Reembolso de recuperación en exceso:
+El intermediario debe trasladar al FNG cualquier valor recuperado que supere el 100% de la suma adeudada.
+
+30. Gestión de cobranza:
+Incluye acciones de cobranza judicial y extrajudicial realizadas por el FNG o a través de terceros.
+
+31. Subrogación:
+El FNG se subroga en los derechos del intermediario por los pagos realizados, incluyendo derechos y garantías.
+
+32. Actuaciones judiciales y daciones en pago:
+Las decisiones sobre suspensión o terminación de actuaciones judiciales deben ser conjuntas entre el FNG y el intermediario.
+
+33. Mandato de recuperación de cartera:
+El FNG puede celebrar contratos de mandato con intermediarios para la recuperación de cartera derivada de pagos de garantías.
+
+34. Enajenación de obligaciones garantizadas por el intermediario:
+Las garantías se mantienen vigentes si el adquirente cumple con los requisitos de vinculación y administración.
+
+35. Enajenación de obligaciones siniestradas por el intermediario:
+El intermediario puede enajenar obligaciones siniestradas a terceros, cumpliendo ciertas condiciones.
+
+36. Enajenación de cartera por el FNG:
+El FNG puede enajenar obligaciones derivadas de garantías pagadas, manteniendo las condiciones contractuales.
+
+37. Compra de cartera por el FNG:
+El FNG puede adquirir obligaciones garantizadas en casos específicos según el Decreto 2075 de 2010.
+
+38. Inspección:
+El FNG puede realizar visitas de inspección para verificar la información y documentación relacionada con las obligaciones garantizadas.
+
+39. Obligaciones garantizadas de deudores víctimas de delitos:
+El FNG suspenderá comisiones y términos de reclamación para deudores víctimas de secuestro, desaparición forzada o toma de rehenes.
+
+40. Obligaciones garantizadas de deudores víctimas de conflicto armado:
+El FNG concederá ciertas prerrogativas a deudores víctimas de conflicto armado, como la suspensión de comisiones y términos de reclamación.
+
+41. Obligaciones garantizadas con seguro de vida del deudor:
+El intermediario puede asegurar las obligaciones garantizadas con un seguro de vida del deudor.
+
+42. Plan de contingencia operativa:
+Establece medidas a seguir en caso de contingencias que impidan la operación normal del portal del FNG.
+
+TÍTULO 2. LÍNEA DE GARANTÍA EMPRESARIAL
+CAPÍTULO 1. DEFINICIÓN
+La línea de garantía empresarial respalda obligaciones de micro, pequeñas y medianas empresas para financiar capital de trabajo, inversiones fijas, capitalización empresarial, innovación y desarrollo tecnológico.
+
+CAPÍTULO 2. GARANTÍAS DE CRÉDITOS
+1. Cobertura de garantía de créditos:
+El FNG limita su responsabilidad a un porcentaje específico según el producto de garantía.
+
+2. Perfil de deudores de créditos:
+Empresas domiciliadas en Colombia, calificadas como micro, pequeñas o medianas, y que cumplan con el perfil de riesgo establecido por el intermediario.
+
+3. Limitación de cancelación de pasivos garantizados:
+Los recursos no pueden usarse para cancelar pasivos previamente garantizados, salvo en ciertos casos de consolidación de obligaciones.
+
+4. Instrumentación de créditos a garantizar:
+Los créditos se instrumentan en títulos valores suscritos por los deudores, codeudores y avalistas.
+
+CAPÍTULO 3. GARANTÍAS DE OPERACIONES DE LEASING
+1. Cobertura de garantía de leasing:
+El FNG garantiza el pago de saldos insolutos de operaciones de leasing financiero.
+
+2. Perfil de deudores de leasing financiero:
+Empresas domiciliadas en Colombia, calificadas como micro, pequeñas o medianas, y que cumplan con el perfil de riesgo establecido por el intermediario.
+
+3. Adiciones a operaciones de leasing financiero:
+El intermediario puede realizar adiciones a las operaciones de leasing financiero.
+
+TÍTULO 3. LÍNEA DE GARANTÍA DE VIVIENDA DE INTERÉS SOCIAL
+CAPÍTULO 1. GARANTÍA VIS
+1. Cobertura de garantía VIS:
+El FNG garantiza el pago de saldos insolutos de créditos hipotecarios para vivienda de interés social (VIS).
+
+2. Perfil de beneficiarios de créditos VIS:
+Personas naturales que cumplan con los requisitos establecidos para la vivienda de interés social.
+
+3. Condiciones de créditos VIS:
+Incluyen plazos, tasas de interés y comisiones específicas para este tipo de créditos.
+
+TÍTULO 4. LÍNEA DE GARANTÍA INSTITUCIONAL
+CAPÍTULO 1. GARANTÍAS INSTITUCIONALES
+1. Cobertura de garantía institucional:
+El FNG garantiza el pago de saldos insolutos de créditos otorgados a entidades institucionales.
+
+2. Perfil de deudores institucionales:
+Entidades que cumplan con los requisitos establecidos por el FNG.
+
+TÍTULO 5. ASPECTOS COMUNES A LOS PRODUCTOS DE GARANTÍA
+CAPÍTULO 1. NATURALEZA Y EFICACIA DE LA GARANTÍA
+1. Naturaleza de la garantía:
+Las garantías son actos jurídicos accesorios que respaldan obligaciones principales.
+
+2. Productos de garantía:
+Detallan las características técnicas y financieras de cada producto de garantía.
+
+3. Operaciones susceptibles de garantía:
+Las operaciones que pueden ser garantizadas según los productos de garantía vigentes.
+
+4. Comisiones de productos de garantía:
+Incluyen tarifas, base de liquidación y modalidades de pago de las comisiones.
+
+PARTE 2. ESQUEMA OPERATIVO
+TÍTULO 1. DISPOSICIONES GENERALES
+CAPÍTULO 1. ESQUEMA CENTRALIZADO DE OPERACIÓN
+1. Horario de atención:
+Define los horarios de operación y atención al público del FNG.
+
+2. Sistemas de información:
+Incluye los sistemas designados para las transacciones y la comunicación entre el FNG y los intermediarios.
+
+CAPÍTULO 2. ADMINISTRACIÓN DE CUENTAS
+1. Políticas de cuentas:
+Establece las políticas de acceso y administración de cuentas para los usuarios del sistema del FNG.
+
+2. Roles y perfiles de usuarios:
+Define los roles y perfiles de los usuarios dentro del sistema del FNG.
+
+CAPÍTULO 3. ESQUEMA TRANSACCIONAL
+1. Esquema transaccional del sistema de información designado (portal):
+Describe el funcionamiento del portal transaccional del FNG.
+
+TÍTULO 2. PROCESOS OPERATIVOS DEL FNG
+CAPÍTULO 1. RESERVA DE CUPO
+1. Reserva de cupo de garantías automáticas e individuales:
+Proceso para la reserva de cupo de las obligaciones a ser garantizadas.
+
+CAPÍTULO 2. APERTURA DE CUPO
+1. Apertura de cupo - cupos rotativos globales y de crédito:
+Proceso para la apertura de cupo para obligaciones con cupos rotativos.
+
+CAPÍTULO 3. REGISTRO Y MODIFICACIÓN DE GARANTÍAS
+1. Registro de garantías:
+Proceso para registrar las obligaciones garantizadas ante el FNG.
+
+2. Modificación de garantías registradas:
+Proceso para la modificación de las condiciones de las obligaciones garantizadas.
+
+CAPÍTULO 4. FACTURACIÓN Y PAGO DE COMISIONES
+1. Facturación y pago de comisiones líneas empresarial e institucional:
+Proceso de facturación y pago de comisiones para estas líneas de garantía.
+
+2. Facturación y pago de comisiones línea VIS:
+Proceso específico para la facturación y pago de comisiones de la línea de vivienda de interés social.
+
+CAPÍTULO 5. RECUPERACIÓN DE CARTERA
+1. Recuperación de cartera parte FNG:
+Proceso para la recuperación de cartera por parte del FNG.
+
+CAPÍTULO 6. ESQUEMA ALTERNATIVO DE RECLAMACIÓN
+1. Esquema alternativo de reclamación:
+Proceso alternativo para la reclamación de garantías.
+
+CAPÍTULO 7. LIQUIDACIÓN DE VALOR A PAGAR
+1. Liquidación de valor a pagar operaciones VIS:
+Proceso de liquidación de valores a pagar en la línea de vivienda de interés social.
+
+CAPÍTULO 8. TRASLADO DE RECURSOS DEL FNG
+1. Traslado de recursos:
+Proceso para el traslado de recursos recuperados por el FNG a los intermediarios.
+
+ANEXOS
+1. Productos de Garantía:
+Incluye detalles de cada producto de garantía vigente, sus características y condiciones.
+
+2. Aceptación de garantía, consulta y reporte a operadores de datos financieros y tratamiento de datos personales:
+Documento que debe ser suscrito por los deudores para la aceptación de las garantías y el tratamiento de sus datos personales.
+
+9. Plan de Contingencia del Portal:
+Establece las medidas a seguir en caso de contingencias que afecten la operación normal del portal del FNG.
