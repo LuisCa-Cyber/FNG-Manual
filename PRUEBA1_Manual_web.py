@@ -164,7 +164,7 @@ def run_chatbot():
             if message["role"] == "user":
                 st.write(f"**🧑‍💻 Tú:** {message['content']}")
             elif message["role"] == "assistant":
-                st.write(f"**ChatBot💭 - Arquitectura de Datos 🤖:** {message['content']}")
+                st.write(f"**ChatBot💭:** {message['content']}")
 
 # Ejecutar la función principal en la aplicación de Streamlit
 if __name__ == "__main__":
