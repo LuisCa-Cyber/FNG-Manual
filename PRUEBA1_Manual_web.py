@@ -59,14 +59,14 @@ def clean_text(text):
 @st.cache_data
 def load_text_files():
     # Especifica la ruta del archivo de texto
-    file_path = r'DOCUMENTOS\RESUMEN MANUAL GARANTIAS.txt'
+    file_path = r'DOCUMENTOS/RESUMEN MANUAL GARANTIAS.txt'
 
     # Lee el archivo de texto y almacena el contenido en una variable
     with open(file_path, 'r', encoding='utf-8') as file:
         Texto_Final = file.read()
 
     # Especifica la ruta del archivo de texto
-    file_path = r'DOCUMENTOS\\Resumen GPT.txt'
+    file_path = r'DOCUMENTOS/Resumen GPT.txt'
 
     # Lee el archivo de texto y almacena el contenido en una variable
     with open(file_path, 'r', encoding='utf-8') as file:
