@@ -1,5 +1,5 @@
-streamlit
-openai
-fitz
+python-dotenv
+pymupdf
 nltk
-streamlit_jupyter
+streamlit
+openai==0.28.0
