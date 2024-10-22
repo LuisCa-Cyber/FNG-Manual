@@ -167,7 +167,7 @@ def run_chatbot():
                     st.markdown(f"**Tú:** {content}")
             elif role == "assistant":
                 with st.chat_message("assistant", avatar="🤖"):
-                    st.markdown(f"**ChatBot:** {content}")
+                    st.markdown(f"**Garant-IA:** {content}")
 
 
     # Mostrar el historial completo de la conversación
