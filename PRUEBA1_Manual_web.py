@@ -158,13 +158,28 @@ def run_chatbot():
         st.session_state.messages.append({"role": "assistant", "content": contenido})
 
 
-    # Mostrar el historial completo de la conversación
     if st.session_state.messages:
         for message in st.session_state.messages:
-            if message["role"] == "user":
-                st.write(f"**🧑‍💻 Tú:** {message['content']}")
-            elif message["role"] == "assistant":
-                st.write(f"**ChatBot💭:** {message['content']}")
+            role = message["role"]
+            content = message["content"]
+            if role == "user":
+                with st.chat_message("user", avatar="👤"):
+                    st.markdown(f"**Tú:** {content}")
+            elif role == "assistant":
+                with st.chat_message("assistant", avatar="🤖"):
+                    st.markdown(f"**ChatBot:** {content}")
+
+
+    # Mostrar el historial completo de la conversación
+    # if st.session_state.messages:
+    #     for message in st.session_state.messages:
+    #         if message["role"] == "user":
+    #             st.write(f"**🧑‍💻 Tú:** {message['content']}")
+    #         elif message["role"] == "assistant":
+    #             st.write(f"**ChatBot💭:** {message['content']}")
+
+
+
 
 # Ejecutar la función principal en la aplicación de Streamlit
 if __name__ == "__main__":
