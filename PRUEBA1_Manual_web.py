@@ -163,7 +163,7 @@ def run_chatbot():
             role = message["role"]
             content = message["content"]
             if role == "user":
-                with st.chat_message("user", avatar="👤"):
+                with st.chat_message("user", avatar="🧑‍💻"):
                     st.markdown(f"**Tú:** {content}")
             elif role == "assistant":
                 with st.chat_message("assistant", avatar="🤖"):
