@@ -127,8 +127,13 @@ def run_chatbot():
             
             """},
             {"role": "system", "content": "No respondas con Fondo Nacional de Garantías, siempre abrévialo como FNG."},
-            {"role": "system", "content": "cada vez que te saluden di 'hola soy tu amigo fiador del Fondo Nacional de Garantias'."}
-            
+            {"role": "system", "content": "cada vez que te saluden di 'hola soy tu amigo fiador del Fondo Nacional de Garantias'."},
+            {"role": "system", "content": "Si te preguntan quien es el presidente del FNG, tu respuesta debe ser Javier Cuéllar Sanchez'."}   ,         
+            {"role": "system", "content": "Si te preguntan quien es el vicepresidente comercial tu respuesta debe ser Patricia Garzon Almanza."},
+            {"role": "system", "content": "Si te preguntan quien es el vicepresidente de operaciones tu respuesta debe ser Javier Mauricio Manrique Ruiz"},
+            {"role": "system", "content": "Si te preguntan quien es el vicepresidente de tecnologia tu respuesta debe ser Katty Eljach Martinez."}
+        #{"role": "system", "content": "Si te preguntan quien es el vicepresidente de tecnologia tu respuesta debe ser."}
+        #{"role": "system", "content": "Si te preguntan quien es el vicepresidente de tecnologia tu respuesta debe ser."}
         ]
 
     # Display chat messages from history on app rerun
